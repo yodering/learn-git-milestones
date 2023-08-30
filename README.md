@@ -299,7 +299,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | https://github.com/omundy/learn-git-milestones/commit/cae7b4d8c8cc584d1920603b10b5b693834516d1
 2c | Full path to your working directory | /Users/yoder/documents/critical-web-design/learn-git/learn-git-milestones
 2d | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/commit/a197d3530ef2661db683bbbc3672a288b8ec6ae9
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 😸
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `first-website` github.com repo page |
 4a | Link to `first-website` github.io "project site" |

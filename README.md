@@ -302,7 +302,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 😸
 2f | Link to `commit #4 from VS Code` | https://github.com/omundy/learn-git-milestones/commit/71e34aa2896dc181578c2d091dc8da17a16519eb
 3a | Link to `first-website` github.com repo page | https://github.com/yodering/first-website
-4a | Link to `first-website` github.io "project site" |
+4a | Link to `first-website` github.io "project site" | https://yodering.github.io/first-website/
 
 
 
